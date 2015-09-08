@@ -1,0 +1,4 @@
+Nombre: martin ---- Apellido: Brito ---- DNI: 31541144 ---- Sexo: Masculino ---- Legajo: 5435345 ---- Sueldo: 32131
+Nombre: hernan ---- Apellido: Perez ---- DNI: 5445346 ---- Sexo: Masculino ---- Legajo: 54332 ---- Sueldo: 432432532
+Nombre: Pepin ---- Apellido: Sanchez ---- DNI: 64567 ---- Sexo: Masculino ---- Legajo: 5436 ---- Sueldo: 54356
+Nombre: Juan ---- Apellido: Rodriguez ---- DNI: 432422 ---- Sexo: Masculino ---- Legajo: 54367 ---- Sueldo: 45325
